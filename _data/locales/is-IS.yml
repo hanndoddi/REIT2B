@@ -3,29 +3,29 @@
 # ----- Commons label -----
 
 layout:
-  post: Post
-  category: Category
-  tag: Tag
+  post: Póstar
+  category: Flokkar
+  tag: Efnisorð
 
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
   home: Heim
-  categories: Categories
-  tags: Tags
-  archives: Archives
-  about: About
+  categories: Flokkar
+  tags: Efnisorð
+  archives: Tímalína
+  about: Um
 
 # the text displayed in the search bar & search results
 search:
-  hint: search
-  cancel: Cancel
-  no_results: Oops! No results found.
+  hint: Leita
+  cancel: Hætta við
+  no_results: Úps! leitin skilaði engum niðurstöðum
 
 panel:
-  lastmod: Recently Updated
-  trending_tags: Trending Tags
-  toc: Contents
+  lastmod: Nýlega upfært
+  trending_tags: Vinsæl efnisorð
+  toc: Efnisyfirlit
 
 copyright:
   # Shown at the bottom of the post
@@ -43,28 +43,28 @@ copyright:
 meta: Using the :THEME theme for :PLATFORM.
 
 not_found:
-  statement: Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
+  statement: Hér hefur eitthvað farið úrskeiðis. gæti verið vitlaus linkur eða ekki til.
 
 notification:
-  update_found: A new version of content is available.
-  update: Update
+  update_found: Ný útgáfa af þessu efni er til staðar.
+  update: Uppfæra
 
 # ----- Posts related labels -----
 
 post:
-  written_by: By
-  posted: Posted
-  updated: Updated
-  words: words
-  pageview_measure: views
+  written_by: Eftir
+  posted: Birt
+  updated: Uppfært
+  words: Orð
+  pageview_measure: Séð
   read_time:
     unit: min
     prompt: read
   relate_posts: Further Reading
-  share: Share
+  share: Deila
   button:
-    next: Newer
-    previous: Older
+    next: Nýrra efni
+    previous: Eldra efni
     copy_code:
       succeed: Copied!
     share_link:
@@ -84,8 +84,8 @@ df:
 # categories page
 categories:
   category_measure:
-    singular: category
-    plural: categories
+    singular: Flokkur
+    plural: Flokkar
   post_measure:
-    singular: post
-    plural: posts
+    singular: Póstur
+    plural: Póstar
