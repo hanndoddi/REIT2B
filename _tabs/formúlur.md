@@ -2,7 +2,7 @@
 # the default layout is 'page'
 title: Formúlur
 layout: post
-icon: fas fa-info-circle
+icon: fas fa-solid fa-square-root-variable
 order: 5
 toc: true
 math: true
@@ -11,7 +11,7 @@ math: true
 ## Almennt
 
 ---
-
+    
 $$ U = I \cdot R $$
 
 ---
