@@ -10,11 +10,11 @@ layout:
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
-  home: Heim
+  home: Námsefni
   categories: Flokkar
   tags: Efnisorð
   archives: Tímalína
-  about: Um
+  about: Áfangalýsing
 
 # the text displayed in the search bar & search results
 search:
