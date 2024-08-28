@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-title: Formúlur
+title: Lesefni
 layout: page
 icon: fas fa-book
 order: 6
@@ -13,6 +13,10 @@ math: true
 [Rafbók](https://www.rafbok.is/)
 
 ## aðrar bækur
+
+eftir að setja inn
+
+### efnisyfirlit
 
 eftir að setja inn
 
